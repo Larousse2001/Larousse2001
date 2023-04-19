@@ -2,4 +2,4 @@
 - 👀 I’m interested in engineering software.
 - 🌱 I’m currently learning computer sciences.
 - 💞️ I’m looking to collaborate on same big project.
-- 📫 How to reach me : achraflarousse@gmail.Com
+- 📫 How to reach me : achraf.arous@outlook.com
