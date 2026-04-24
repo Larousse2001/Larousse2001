@@ -1,18 +1,32 @@
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/604a406c-0315-4f07-9202-1942d3534dbb" />
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJhamMzczkxcmlpaTVlc3psOGl4NHI1enAxMXNkYmpweXJicmVxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="400" />
+</div>
 
-👋 Hi, I'm Achraf, but you can call me Larousse.
+<h1 align="center">👋 Hi, I'm Achraf (Larousse)</h1>
 
-👀 I'm interested in software engineering, and I'm currently learning computer science.
+<p align="center">
+👀 I'm a lead data engineer - data scientist
+</p>
 
-🌱 I'm proficient in HTML, CSS, JavaScript, TypeScript, Python, Microsoft Power FX, C++, Angular, React, Vue, Git, Docker, Figma, Excel, Node.js, and machine learning.
+<p align="center">
+🌱 I'm proficient in Python, Pyspark, Tensor, JavaScript, TypeScript, Microsoft Power FX, Angular, React, Vue, Git, Docker, Figma, Excel, Node.js, machine learning and deep leaning models
+</p>
 
+<p align="center">
 💞️ I'm looking to collaborate on exciting projects and contribute to innovative solutions.
+</p>
 
-📫 You can reach me at achraf.arous@outlook.com. I'm always open to new opportunities and connections.
+<p align="center">
+📫 You can reach me at <b>achref.arous@outlook.com</b>
+</p>
 
-Check out my portfolio at: [Larousse | Portfolio](https://portfolio-5c50a.web.app/)
+<p align="center">
+🔗 <a href="https://portfolio-5c50a.web.app/">Check out my portfolio</a>
+</p>
+
+---
 
 ## About me:
 
-
-I'm a Computer Science student who is highly driven to enhance my skills and advance my career. I have undertaken numerous projects, including individual and academic assignments, as well as internships with several companies. These experiences have honed my technical abilities and instilled in me a passion for continuous learning and development. I'm excited to continue applying my knowledge and expertise to contribute to innovative projects and drive progress in the field of Computer Science.
+I'm a Lead Data Engineer and Data Scientist skilled in building scalable data solutions, transforming complex data into actionable insights, and
+driving innovation through advanced analytics and AI.
