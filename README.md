@@ -1,3 +1,5 @@
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/604a406c-0315-4f07-9202-1942d3534dbb" />
+
 👋 Hi, I'm Achraf, but you can call me Larousse.
 
 👀 I'm interested in software engineering, and I'm currently learning computer science.
